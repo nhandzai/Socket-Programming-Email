@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhewGKyaXLI05m95IolJ/b8Oe/K7upl4Ha96oRzn5Hm+T6cNBu0/a3pRwxqFW47y6/beOiTx3ehm4dIWYF8XrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\CS\\22127172_22127303\\Source\\EmailSocket\\EmailSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+{
+  "General": {
+    "Username": "HoangKha <phamhoangkha21@gmail.com>",
+    "Password": "123",
+    "MailServer": "127.0.0.1",
+    "SmtpPort": 2225,
+    "Pop3Port": 3335,
+    "AutoLoad": 10
+  },
+  "Filters": [
+    {
+      "Folder": "Project",
+      "Criteria": {
+        "From": [
+          "ahihi@testing.com",
+          "ahuu@testing.com"
+        ]
+      }
+    },
+    {
+      "Folder": "Important",
+      "Criteria": {
+        "Subject": [
+          "urgent",
+          "ASAP"
+        ]
+      }
+    },
+    {
+      "Folder": "Work",
+      "Criteria": {
+        "Body": [
+          "report",
+          "meeting"
+        ]
+      }
+    },
+    {
+      "Folder": "Spam",
+      "Criteria": {
+        "Subject": [
+          "virus",
+          "hack",
+          "crack"
+        ],
+        "Body": [
+          "virus",
+          "hack",
+          "crack"
+        ]
+      }
+    }
+  ]
+}
